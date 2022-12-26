@@ -13,6 +13,10 @@ body {
   font-size: 1.4rem;
   font-weight: 500;
   background-color: hsl(210, 46%, 95%);
+
+  display: grid;
+  place-content: center;
+  min-width: 100vh;
 }
 
 .testimonial {
@@ -29,8 +33,6 @@ body {
     @include respond(phone) {
       display: flex;
       flex-direction: column;
-      justify-content: center;
-      align-items: center;
       width: 100vw;
       margin: 4rem 7rem;
     }
@@ -49,6 +51,7 @@ body {
 
   &__author-name {
     color: hsl(210, 46%, 95%);
+    font-size: 1.4rem;
   }
 
   &__title {
