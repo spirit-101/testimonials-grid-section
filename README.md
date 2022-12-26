@@ -4,11 +4,11 @@
 
 <hr>
 
-🌐 [View the live site](https://spirit-101.github.io/four-card-feature-section/)
+🌐 [View the live site](https://spirit-101.github.io/testimonials-grid-section/)
 
-🧠 [Check out the solution](https://www.frontendmentor.io/solutions/four-card-feature-section-J9qpoaM7SH)
+🧠 [Check out the solution](https://www.frontendmentor.io/solutions/testimonials-grid-section-FZnxKc08JL)
 
-📝 [View the challenge](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK)
+📝 [View the challenge](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7)
 
 ---
 
